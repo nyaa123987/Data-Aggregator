@@ -1,0 +1,12 @@
+2025-04-11 14:31:58,965 - INFO - Successfully fetched the job listings.
+2025-04-11 14:31:59,308 - ERROR - An error occurred: 'Expiry Date'
+2025-04-11 14:38:43,440 - INFO - Successfully fetched the job listings.
+2025-04-11 14:38:43,471 - ERROR - An error occurred: 'Expiry Date'
+2025-04-11 15:01:11,750 - ERROR - Request failed: HTTPSConnectionPool(host='vacancymail.co.zw', port=443): Max retries exceeded with url: /jobs/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E89E520D70>: Failed to resolve 'vacancymail.co.zw' ([Errno 11001] getaddrinfo failed)"))
+2025-04-11 15:04:14,498 - INFO - Successfully fetched the job listings.
+2025-04-11 15:04:14,536 - ERROR - An error occurred: 'Expiry Date'
+2025-04-11 15:08:14,230 - ERROR - Request failed: HTTPSConnectionPool(host='vacancymail.co.zw', port=443): Max retries exceeded with url: /jobs/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016995780D70>, 'Connection to vacancymail.co.zw timed out. (connect timeout=None)'))
+2025-04-11 15:29:14,658 - INFO - Successfully fetched the job listings.
+2025-04-11 15:29:14,733 - ERROR - An error occurred: 'Expiry Date'
+2025-04-11 15:29:50,813 - INFO - Successfully fetched the job listings.
+2025-04-11 15:29:50,849 - ERROR - An error occurred: 'Expiry Date'
